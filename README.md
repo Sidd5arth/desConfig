@@ -1,6 +1,6 @@
 # Organic View
 
-A calm 3D T-shirt configurator
+A 3D T-shirt configurator
 
 **Owned by [sidd5arth](https://github.com/sidd5arth)**
 
