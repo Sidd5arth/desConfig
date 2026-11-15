@@ -1,6 +1,6 @@
 # Organic View
 
-A calm 3D T-shirt configurato — white canvas, Rausch accent, soft 14px radii, Inter (Cereal substitute).
+A calm 3D T-shirt configuratr
 
 **Owned by [sidd5arth](https://github.com/sidd5arth)**
 
