@@ -52,5 +52,6 @@ Swap these files in `public/` (keep the same names):
 - Default texture: `public/full.jpg`
 
 ## License
+<img width="1226" height="718" alt="image" src="https://github.com/user-attachments/assets/df439e21-6696-4fef-b613-6a8049049230" />
 
 Personal project by **sidd5arth**.
