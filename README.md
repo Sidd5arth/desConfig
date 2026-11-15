@@ -1,6 +1,6 @@
 # Organic View
 
-A calm 3D T-shirt configurator styled to the Airbnb design system — white canvas, Rausch accent, soft 14px radii, Inter (Cereal substitute).
+A calm 3D T-shirt configurato — white canvas, Rausch accent, soft 14px radii, Inter (Cereal substitute).
 
 **Owned by [sidd5arth](https://github.com/sidd5arth)**
 
